@@ -1,0 +1,7 @@
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\bin\Debug\DIP.exe.config
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\bin\Debug\DIP.exe
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\bin\Debug\DIP.pdb
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\obj\Debug\DIP.exe
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\DIP\obj\Debug\DIP.pdb

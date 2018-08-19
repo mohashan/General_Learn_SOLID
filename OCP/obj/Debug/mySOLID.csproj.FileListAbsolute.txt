@@ -1,0 +1,7 @@
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\bin\Debug\mySOLID.exe.config
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\bin\Debug\mySOLID.exe
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\bin\Debug\mySOLID.pdb
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\obj\Debug\mySOLID.csprojAssemblyReference.cache
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\obj\Debug\mySOLID.csproj.CoreCompileInputs.cache
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\obj\Debug\mySOLID.exe
+E:\Learning\Programming\General\SOLID\myWork\mySOLID\mySOLID\obj\Debug\mySOLID.pdb
